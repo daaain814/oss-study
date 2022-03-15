@@ -5,7 +5,7 @@
 
 This is on R Markdown document. Markdown is a simple formatting santax for authoring webpages.
 
-Use an asterisk mark to provide emphasis, such as "italics" or **bold**.
+Use an asterisk mark to provide emphasis, such as *italics* or **bold**.
 
 Create lists a dash:
 
